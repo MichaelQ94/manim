@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/3163782288_3150189405_1333405370.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_1463730870_395774296.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_2126355161_575918503.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_1463730870_3984096938.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_3863187657_2076191688.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_1463730870_2791415186.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_2563127418_1183597011.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_1463730870_2096271517.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_623780151_3586718782.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/profit_graph/480p15/partial_movie_files/Profit/2201830969_1473040613_989166498.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/piechart/480p15/partial_movie_files/Main/3163782288_792606093_3215410271.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/piechart/480p15/partial_movie_files/Main/1495979052_1615497636_388002877.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/piechart/480p15/partial_movie_files/Main/1495979052_4264497524_3623311876.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/piechart/480p15/partial_movie_files/Main/1495979052_1615497636_605314995.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/piechart/480p15/partial_movie_files/Main/1495979052_1933645084_1497807854.mp4'
+file 'file:/mnt/c/Users/Michael/workspace/manim/sandbox/media/videos/piechart/480p15/partial_movie_files/Main/1495979052_1197037766_267865755.mp4'
